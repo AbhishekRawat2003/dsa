@@ -87,7 +87,7 @@ dsa/
 |------|---------|----------|------------|
 | `1910.cpp` | [Remove All Occurrences of a Substring](https://leetcode.com/problems/remove-all-occurrences-of-a-substring/) | String find + erase | Medium |
 | `stringPalindrome.cpp` | Check String Palindrome | Two pointers | Easy |
-| `3612.cpp` | [ Process String with Special Operations I] (https://leetcode.com/problems/process-string-with-special-operations-i/) | string + simulation | Medium |
+| `3612.cpp` | [ Process String with Special Operations I](https://leetcode.com/problems/process-string-with-special-operations-i/) | string + simulation | Medium |
 
 ---
 
