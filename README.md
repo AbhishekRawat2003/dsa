@@ -99,6 +99,10 @@ dsa/
 | `3614.cpp` | [Process String with Special Operations II](https://leetcode.com/problems/process-string-with-special-operations-ii/) | String + simulation | Hard |
 
 ---
+### Maths{Formula based} (`Math/`)
+| File | Problem | Approach | Difficulty |
+|------|---------|----------|------------|
+| `371.cpp`| [Sum of Two Integer](https://leetcode.com/problems/sum-of-two-integers/) | Bit Manupilation | Medium |
 
 ### 🏔️ Heap & Sorting (`heap/`)
 
