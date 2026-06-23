@@ -124,7 +124,7 @@ dsa/
 
 | File | Problem | Approach | Difficulty |
 |------|---------|----------|------------|
-|`Fibonnnacci.cpp`|Fibonnaci Seriec| DP + recursive + Memoization| Easy|
+|`Fibonnnacci.cpp`|Fibonnacci Series| DP + recursive + Memoization| Easy|
 
 
 ## 🛠️ How to Run
