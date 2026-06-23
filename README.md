@@ -124,8 +124,8 @@ dsa/
 
 | File | Problem | Approach | Difficulty |
 |------|---------|----------|------------|
-|`Fibonnnacci.cpp`|Fibonnacci Series| DP + recursive + Memoization| Easy|
-|`Fibonnnacci_1.cpp`|Fibonnacci Series| DP + Memoization -> Tabulation | Easy|
+|`Fibonnnacci.cpp`|Fibonnacci Series| DP + Recursion + Memoization| Easy|
+|`Fibonnnacci_1.cpp`|Fibonnacci Series| DP + Memoization => Tabulation | Easy|
 
 
 ## 🛠️ How to Run
