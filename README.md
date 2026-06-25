@@ -71,7 +71,16 @@ dsa/
 | `buy_Sell.cpp` | [Best Time to Buy and Sell Stock](https://leetcode.com/problems/best-time-to-buy-and-sell-stock/) | Track min price | Easy |
 | `nextPermutation.cpp` | [Next Permutation](https://leetcode.com/problems/next-permutation/) | Find pivot + reverse | Medium |
 | `allPermutation.cpp` | All Permutations | Backtracking | Medium |
-|`986.cpp`| [Interval List Intersections](https://leetcode.com/problems/interval-list-intersections/) | Two Pointer | Medium|
+|`986.cpp`| [Interval List Intersections](https://leetcode.com/problems/interval-list-intersections/) | Two Pointer | Medium |
+|`948.cpp`|[Bag of Tokens](https://leetcode.com/problems/bag-of-tokens/)|Two Pointer + Greedy| Medium|
+|`1768.cpp`|[Merge Strings Alternately](https://leetcode.com/problems/merge-strings-alternately/)|Two pointer + String| Easy |
+
+---
+
+### 📦 Prefix (`Prefix/`)
+| File | Problem | Approach | Difficulty |
+|------|---------|----------|------------|
+|`1732.cpp`|[Find the Highest Altitude](https://leetcode.com/problems/find-the-highest-altitude/)|Prefix Sum| Hard |
 
 ---
 
@@ -89,6 +98,15 @@ dsa/
 | `longestConsecutiveNumber.cpp` | [Longest Consecutive Sequence](https://leetcode.com/problems/longest-consecutive-sequence/) | HashSet | Medium |
 | `sortArray.cpp` | [Sort Colors](https://leetcode.com/problems/sort-colors/) | Dutch National Flag | Medium |
 |`3737.cpp`|[Count Subarrays With Majority Element I](https://leetcode.com/problems/count-subarrays-with-majority-element-i/)| Segment Tree + Merge Sort + Counting + Prefix Sum|Medium|
+
+---
+
+### 📦 Linked List (`Linked-List/`)
+
+| File | Problem | Approach | Difficulty |
+|------|---------|----------|------------|
+|`2095.cpp`|[Delete the Middle Node of a Linked List](https://leetcode.com/problems/delete-the-middle-node-of-a-linked-list/description/)|Two Pointer + lazy and fast Pointer| Medium |
+
 ---
 
 ### 🔤 Strings (`Strings/`)
@@ -99,17 +117,25 @@ dsa/
 | `StringPalindrome.cpp` | Check String Palindrome | Two pointers | Easy |
 | `3612.cpp` | [Process String with Special Operations I](https://leetcode.com/problems/process-string-with-special-operations-i/) | String + simulation | Medium |
 | `3614.cpp` | [Process String with Special Operations II](https://leetcode.com/problems/process-string-with-special-operations-ii/) | String + simulation | Hard |
+|`1189.cpp`|[Maximum Number of Balloons](https://leetcode.com/problems/maximum-number-of-balloons/)|Hash Table + counting| Easy |
 
 ---
-### Maths{Formula based} (`Math/`)
+
+### Maths {Formula based} (`Math/`)
 | File | Problem | Approach | Difficulty |
 |------|---------|----------|------------|
 | `371.cpp`| [Sum of Two Integer](https://leetcode.com/problems/sum-of-two-integers/) | Bit Manupilation | Medium |
+|`1840.cpp`| [Maximum Building Height](https://leetcode.com/problems/maximum-building-height/)|Array + sorting|Hard|
+
+---
 
 ### Greedy (`Greedy/`)
+
 | File | Problem | Approach | Difficulty |
 |------|---------|----------|------------|
 | `1833.cpp`| [Maximum ice cream bars](https://leetcode.com/problems/maximum-ice-cream-bars/) | Greedy | Medium |
+
+---
 
 ### 🏔️ Heap & Sorting (`heap/`)
 
@@ -120,6 +146,19 @@ dsa/
 | `QuickSelect.cpp` | Kth Smallest (QuickSelect) | Lomuto partition | Medium |
 
 ---
+
+### Recursion (`Recursion/`)
+
+| File | Problem | Approach | Difficulty |
+|------|---------|----------|------------|
+|`factorial.cpp`|[]()|Recursin-> memoization||
+|`power.cpp`|[]()|Recursin-> memoization| Easy |
+|`reverseString.cpp`|[]()|Recursin-> memoization| Easy |
+|`sum.cpp`|[]()|Recursin-> memoization| Easy |
+|``|[]()|Recursin-> memoization| Easy |
+
+---
+
 ### ⚡ Dynamic Programmming (`Dynamic Programming/`)
 
 | File | Problem | Approach | Difficulty |
@@ -128,7 +167,7 @@ dsa/
 |`Fibonnnacci_1.cpp`|Fibonnacci Series| DP + Memoization -> Tabulation | Easy|
 |`70.cpp`|[Climb Stairs](https:/leetcode.com/problems/climb-stairs/)|DP + Memoization -> Tabulation|Easy|
 |`403.cpp`|[Frog jump](https://leetcode.com/problems/frog-jump/)|Recursion -> DP + Memoization -> Tabulation|Hard|
-|`frog-jump`|[Frog Jump with height](https://www.naukri.com/code360/problems/frog-jump_3621012)|Recursion -> DP + Memoization -> Tabulation | Medium|
+|`frog-jump`|[Frog Jump with height](https://www.naukri.com/code360/problems/frog-jump_3621012)|Recursion -> DP + Memoization -> Tabulation | Medium |
 
 ## 🛠️ How to Run
 
