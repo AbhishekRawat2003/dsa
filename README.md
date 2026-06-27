@@ -99,6 +99,7 @@ dsa/
 | `sortArray.cpp` | [Sort Colors](https://leetcode.com/problems/sort-colors/) | Dutch National Flag | Medium |
 |`3737.cpp`|[Count Subarrays With Majority Element I](https://leetcode.com/problems/count-subarrays-with-majority-element-i/)| Segment Tree + Merge Sort + Counting + Prefix Sum|Medium|
 |`3739.cpp`|[Count Subarrays With Majority Element II](https://leetcode.com/problems/count-subarrays-with-majority-element-ii/)| Segment Tree + Merge Sort + Counting + Prefix Sum|Hard|
+|`3020.cpp`|[. Find the Maximum Number of Elements in Subset](leetcode.com/problems/find-the-maximum-number-of-elements-in-subset/)|Array+ Hash Table + Enumeration| Medium |
 
 ---
 
