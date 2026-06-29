@@ -100,7 +100,7 @@ dsa/
 |`3737.cpp`|[Count Subarrays With Majority Element I](https://leetcode.com/problems/count-subarrays-with-majority-element-i/)| Segment Tree + Merge Sort + Counting + Prefix Sum|Medium|
 |`3739.cpp`|[Count Subarrays With Majority Element II](https://leetcode.com/problems/count-subarrays-with-majority-element-ii/)| Segment Tree + Merge Sort + Counting + Prefix Sum|Hard|
 |`3020.cpp`|[. Find the Maximum Number of Elements in Subset](leetcode.com/problems/find-the-maximum-number-of-elements-in-subset/)|Array+ Hash Table + Enumeration| Medium |
-|`1431.cpp`|[Kids with greatest Number of candies](leetcode.com/problems/kids-with-greatest-number-of-candies)|Array|Easy|
+|`1431.cpp`|[Kids with greatest Number of candies](leetcode.com/problems/kids-with-greatest-number-of-candies/)|Array|Easy|
 
 ---
 
@@ -139,7 +139,7 @@ dsa/
 | File | Problem | Approach | Difficulty |
 |------|---------|----------|------------|
 | `1833.cpp`| [Maximum ice cream bars](https://leetcode.com/problems/maximum-ice-cream-bars/) | Greedy | Medium |
-|`605.cpp`|[Can place flowers](leetcode.com/problems/can-place-flowers)|Greedy + Array| Easy|
+|`605.cpp`|[Can place flowers](https://leetcode.com/problems/can-place-flowers/)|Greedy + Array| Easy|
 
 ---
 
@@ -161,7 +161,7 @@ dsa/
 |`power.cpp`|[]()|Recursin-> memoization| Easy |
 |`reverseString.cpp`|[]()|Recursin-> memoization| Easy |
 |`sum.cpp`|[]()|Recursin-> memoization| Easy |
-|``|[]()|Recursin-> memoization| Easy |
+<!-- |``|[]()|Recursin-> memoization| Easy | -->
 
 ---
 
